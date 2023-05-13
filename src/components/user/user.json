@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_user_users",
+  "info": {
+    "displayName": "user",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "text"
+    },
+    "answer": {
+      "type": "text"
+    },
+    "name": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    }
+  }
+}
